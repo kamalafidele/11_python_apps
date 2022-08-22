@@ -1,6 +1,5 @@
 import random
 
-
 def bin_search(nums, target, low, high):
     while low <= high:
         mid = (low + high) // 2
